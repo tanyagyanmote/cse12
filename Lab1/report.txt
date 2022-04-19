@@ -1,0 +1,30 @@
+assignment:  Lab 1
+name:        Tanya Gyanmote
+cruzid:      tgyanmot
+
+----------------------------------------
+GRADE BREAKDOWN
+----------------------------------------
+30.0 / 30 Part-A completed
+comment: Grade breakdown:
+	* 15.0 points for .dig file
+	* 15.0 points for .txt file
+
+30.0 / 30 Part-B completed
+comment: Grade breakdown:
+	* 15.0 points for .dig file
+	* 15.0 points for .txt file
+
+40.0 / 40 Part-C completed
+comment: Grade breakdown:
+	* 20.0 points for .dig file
+	* 20.0 points for .txt file
+
+
+
+--------------------
+TOTAL
+
+points earned:   100.0
+lab total:       100
+late hours used: 0
