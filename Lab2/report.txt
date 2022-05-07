@@ -1,0 +1,26 @@
+assignment:  Lab 2
+name:        Tanya Gyanmote
+cruzid:      tgyanmot
+
+----------------------------------------
+GRADE BREAKDOWN
+----------------------------------------
+0 / 30 Part-1 completed
+comment: An unexpected error occured while grading this part of your lab. If you believe there has been a grading error, please request a regrade.
+
+0 / 30 Part-2 completed
+comment: An unexpected error occured while grading this part of your lab. If you believe there has been a grading error, please request a regrade.
+
+0 / 30 Part-3 completed
+comment: An unexpected error occured while grading this part of your lab. If you believe there has been a grading error, please request a regrade.
+
+10 / 10 README.txt in the lab2/ directory exists (empty file allowed)
+
+10 / 10 README.txt in the lab2/ directory exists (empty file allowed)
+
+--------------------
+TOTAL
+
+points earned:   10
+lab total:       100
+late hours used: 1
