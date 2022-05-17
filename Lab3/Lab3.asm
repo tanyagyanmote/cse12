@@ -14,7 +14,7 @@
 
 #######################		PSEUDOCODE:
 #
-# Program takes a natural number from the user, rejecting any unnacceptable input with an error message and a repeated prompt.
+# Accepts a number greater than 0 from the user and rejects any unacceptable input with an error message and a repeated prompt
 # Given the input N, print a a pattern with numbers and stars (asterisks) and dollar signs ($).
 # 		 $1
 #                $*$3
@@ -84,7 +84,7 @@ input:
 	ecall 	
 	
 	addi t0, a0, 0     #t0 = a0 + 0, a0 copied to t0
-	ble t0,zero,error  #makes sure the input is gretater than zero and if not the error message will print and go to error which calls input again
+	ble t0,zero,error  #makes sure the input is greater than zero and if not the error message will print and go to error which calls input again
 	
 	li t1,0             
 	li t2,1
