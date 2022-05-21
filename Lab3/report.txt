@@ -1,0 +1,30 @@
+assignment:  Lab 3
+name:        Tanya Gyanmote
+cruzid:      tgyanmot
+
+----------------------------------------
+GRADE BREAKDOWN
+----------------------------------------
+20 / 20 assembles without errors
+16.0 / 16 error check zero and negative heights
+16 / 16 prompts user until a correct input is entered
+16.0 / 16 number of levels match user input
+16.0 / 16 no extra whitespace
+16.0 / 16 correct asterisks, dollar signs and numbers on each line
+
+--------------------
+NONE
+
+20 / 20 assembles without errors
+16.0 / 16 error check zero and negative heights
+16 / 16 prompts user until a correct input is entered
+16.0 / 16 number of levels match user input
+16.0 / 16 no extra whitespace
+16.0 / 16 correct asterisks, dollar signs and numbers on each line
+
+--------------------
+TOTAL
+
+points earned:   100.0
+lab total:       100
+late hours used: 2
