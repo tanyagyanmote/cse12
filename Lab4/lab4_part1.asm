@@ -1,4 +1,3 @@
-
 #Note that this file only contains a function xyCoordinatesToAddress
 #As such, this function should work independent of any caller funmction which calls it
 #When using regisetrs, you HAVE to make sure they follow the register usage convention in RISC-V as discussed in lectures.
@@ -47,11 +46,11 @@ xyCoordinatesToAddress:
 	#Enter code below!DO NOT MODIFY ANYTHING BEFORE THIS COMMENT LINE!
 	
     	slli	a0, a0, 2	#a0, which is x is shifting left by 2 because to shift left over a bit map, its 4 bits so 2^n=4, n=2
-    	slli 	a1, a1, 7	#a1, which is y is shifting left by 7, 
+    	slli 	a1, a1, 7	#a1, which is y is shifting left by 7 
     	add 	a0, a0, a1	#adding together the value of a0,a1 from the equation above
     	add 	a0, a0, a2	#adding that total to the base address so I can get the pixel address
     
-    	ret			#control is transferred to the return address
+    	ret			#transferred to the return address
 
 
 
