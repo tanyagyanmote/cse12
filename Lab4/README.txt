@@ -1,5 +1,6 @@
 Tanya Gyanmote
 tgyanmot
+Spring 2022
 Lab 4: Paint application
 
 -------------
