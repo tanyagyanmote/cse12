@@ -1,0 +1,38 @@
+assignment:  Lab 4
+name:        Tanya Gyanmote
+cruzid:      tgyanmot
+
+----------------------------------------
+GRADE BREAKDOWN
+----------------------------------------
+30 / 30 assembles without errors
+30.0 / 30 lab4_part1.asm provides correct output
+5 / 5 q key entry works
+5 / 5 w key entry works
+5 / 5 e key entry works
+5 / 5 a key entry works
+5 / 5 s key entry works
+5 / 5 d key entry works
+5 / 5 z key entry works
+5 / 5 C key entry works
+
+--------------------
+NONE
+
+30 / 30 assembles without errors
+30.0 / 30 lab4_part1.asm provides correct output
+5 / 5 q key entry works
+5 / 5 w key entry works
+5 / 5 e key entry works
+5 / 5 a key entry works
+5 / 5 s key entry works
+5 / 5 d key entry works
+5 / 5 z key entry works
+5 / 5 C key entry works
+
+--------------------
+TOTAL
+
+points earned:   100.0
+lab total:       100
+late hours used: 15
